@@ -13,7 +13,7 @@ import sys
 from typing import Tuple, Dict, Any, Union
 
 
-logger = logging.getLogger("cmd")
+logger = logging.getLogger("event_task")
 logger.addHandler(logging.StreamHandler(sys.stdout))
 
 
