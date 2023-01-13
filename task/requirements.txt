@@ -1,0 +1,6 @@
+# Hashed out versions that code was tested with
+click #==8.1.3
+boto3 #==1.26.48
+pyjwt #==2.3.0
+gql[all] # 3.4.0
+pandas #==1.5.2
